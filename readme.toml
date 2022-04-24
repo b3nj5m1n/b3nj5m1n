@@ -1,0 +1,23 @@
+[person]
+screen_name = "b3nj5m1n"
+full_name = "Benjamin"
+aliases = ["b3nj4m1n"]
+bio = '''
+I'm an 18 year old self-taught programmer from Germany.
+
+I'm a big fan of linux and (neo)vim.
+
+In general, the less real-world applications something has, the more interested I am in it.
+'''
+
+[languages.favorites]
+rust = { display_name = "rust", url = "https://www.rust-lang.org/" }
+elm = { display_name = "elm", url = "https://elm-lang.org/" }
+python = { display_name = "python", url = "https://www.python.org/" }
+
+[languages.learning]
+cl = { display_name = "common lisp", url = "https://lisp-lang.org/" }
+
+[socials.github]
+link = "https://www.github.com/b3nj5m1n"
+username = "b3nj5m1n"
